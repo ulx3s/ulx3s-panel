@@ -1,5 +1,5 @@
-### Module positions - created on Sun May 23 23:57:02 2021 ###
-### Printed by Pcbnew version kicad 5.1.9+dfsg1-1
+### Module positions - created on Sat 22 Apr 2023 02:08:43 PM CEST ###
+### Printed by Pcbnew version 6.0.11+dfsg-1
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val                Package                                           PosX       PosY       Rot  Side
@@ -20,20 +20,33 @@ C43       22nF               C_0603_1608Metric                              51.6
 C44       22nF               C_0603_1608Metric                              53.4670    36.4610   90.0000  top
 C45       22nF               C_0603_1608Metric                              54.8640    36.4490   90.0000  top
 C59       220nF              C_0603_1608Metric                              78.8670    15.1130   90.0000  top
-C62       220nF              C_0603_1608Metric                              78.8670     8.8900  270.0000  top
-D0        RED                LED_0805_2012Metric                            26.6700    32.6210  270.0000  top
-D1        ORANGE             LED_0805_2012Metric                            24.1300    32.6210  270.0000  top
-D2        GREEN              LED_0805_2012Metric                            21.5900    32.6210  270.0000  top
-D3        BLUE               LED_0805_2012Metric                            19.0500    32.6210  270.0000  top
-D4        RED                LED_0805_2012Metric                            16.5100    32.6210  270.0000  top
-D5        ORANGE             LED_0805_2012Metric                            13.9700    32.6210  270.0000  top
-D6        GREEN              LED_0805_2012Metric                            11.4450    32.6210  270.0000  top
-D7        BLUE               LED_0805_2012Metric                             8.8900    32.6210  270.0000  top
+C62       220nF              C_0603_1608Metric                              78.8670     8.8900  -90.0000  top
+D0        RED                LED_0805_2012Metric                            26.6700    32.6210  -90.0000  top
+D1        ORANGE             LED_0805_2012Metric                            24.1300    32.6210  -90.0000  top
+D2        GREEN              LED_0805_2012Metric                            21.5900    32.6210  -90.0000  top
+D3        BLUE               LED_0805_2012Metric                            19.0500    32.6210  -90.0000  top
+D4        RED                LED_0805_2012Metric                            16.5100    32.6210  -90.0000  top
+D5        ORANGE             LED_0805_2012Metric                            13.9700    32.6210  -90.0000  top
+D6        GREEN              LED_0805_2012Metric                            11.4450    32.6210  -90.0000  top
+D7        BLUE               LED_0805_2012Metric                             8.8900    32.6210  -90.0000  top
 D18       GREEN              LED_0805_2012Metric                            34.2000     6.7200   90.0000  top
 D19       RED                LED_0805_2012Metric                            36.7000     6.7200   90.0000  top
-D22       BLUE               LED_0805_2012Metric                            31.7000     6.7200  270.0000  top
+D22       BLUE               LED_0805_2012Metric                            31.7000     6.7200  -90.0000  top
+G***      LOGO               intergalaktik                                  34.0514    23.9604   90.0000  top
 GPDI1     GPDI-D             CONN-10029449-111RLF                           51.1960    42.9080  180.0000  top
-R36       549                R_0603_1608Metric                              34.2000     3.5200  270.0000  top
+H1        HOLE               MountingHole_3.2mm_M3_ISO14580_Pad              8.8900     3.8100    0.0000  top
+H2        HOLE               MountingHole_3.2mm_M3_ISO14580_Pad             85.0900     3.8100    0.0000  top
+H3        HOLE               MountingHole_3.2mm_M3_ISO14580_Pad             85.0900    46.9900    0.0000  top
+H4        HOLE               MountingHole_3.2mm_M3_ISO14580_Pad              8.8900    46.9900    0.0000  top
+J1        CONN_02X20         Socket_Strip_Angled_2x20                        3.8100    49.5300  -90.0000  top
+J2        CONN_02X20         Socket_Strip_Angled_2x20                       90.1700     1.2700   90.0000  top
+J3        WIFI_OFF           PinHeader_1x02_P2.54mm_Vertical                11.4300    16.5100  -90.0000  top
+J4        CONN_02X03         Socket_Strip_Straight_2x03                     46.2000     7.6200  -90.0000  top
+J5        VJ1                PinHeader_1x03_P2.54mm_Vertical                35.9560    40.4950   90.0000  top
+J6        SR_CLK             PinSocket_1x02_P1.00mm_Vertical                51.2800     8.6700   90.0000  top
+J7        SR_TX01            PinSocket_1x02_P1.00mm_Vertical                48.7000     8.6900   90.0000  top
+LCD1      ST7789             st7789                                         46.2000    11.4300  180.0000  top
+R36       549                R_0603_1608Metric                              34.2000     3.5200  -90.0000  top
 R37       549                R_0603_1608Metric                              36.7000     3.5200   90.0000  top
 R41       549                R_0603_1608Metric                              26.6700    29.7180   90.0000  top
 R42       549                R_0603_1608Metric                              24.1300    29.7180   90.0000  top
@@ -43,10 +56,10 @@ R45       549                R_0603_1608Metric                              16.5
 R46       549                R_0603_1608Metric                              13.9700    29.7180   90.0000  top
 R47       549                R_0603_1608Metric                              11.4300    29.7180   90.0000  top
 R48       549                R_0603_1608Metric                               8.8900    29.7180   90.0000  top
-R62       549                R_0603_1608Metric                              31.7000     3.5200  270.0000  top
+R62       549                R_0603_1608Metric                              31.7000     3.5200  -90.0000  top
 R67       549                R_0603_1608Metric                              57.6580    36.4490   90.0000  top
 RV3       0                  R_0805_2012Metric_Pad1.29x1.40mm_HandSolder    40.1470    42.6540    0.0000  top
-SD1       104031-0811        SCHD3A100-104031-0811                          21.0320     8.7200  270.0000  top
+SD1       104031-0811        SCHD3A100-104031-0811                          21.0320     8.7200  -90.0000  top
 SW1       SW_DIP_x04         SW_DIP_x4_W8.61mm_Slide_LowProfile             66.0400    38.1000   90.0000  top
 U1        LFE5U-85F-6BG381C  BGA-381_pitch0.8mm_dia0.4mm                    44.3800    24.4200    0.0000  top
 U2        MT48LC16M16A2TG    TSOP54                                         70.9930    24.4200   90.0000  top
